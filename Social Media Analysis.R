@@ -7,7 +7,7 @@ library(reshape)
 library(ggplot2)
 library(gplots)
 library(HH)
-# setwd("~/Winter Quarter/Digital MKT")
+
 # #the temporary token you get on https://developers.facebook.com/tools/explorer/
 # token="CAACEdEose0cBABMeXhZAXoEazJ7O6h3TqGhsTS7B4ai5jJxuyTLZBGnwSE8hE2klPDBKtC2gZC9ekqBZAwolJJwlUZBx66dQJUGWZCD9pmbhpJ5GTF1SiByA4Rz9Ny6X4gcLZBMxfoZB74sTN3Bba9zriEqoP7r0RUNrP5MCaFg6sm1tTCoOZB5rGLq44uRT2E4r7EQQGZCqxkib7W4M9C2DNG"
 # maty.facebook=getPage(page ="matyshp",token = token,n = 300)
